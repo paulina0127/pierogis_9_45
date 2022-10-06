@@ -1,1 +1,5 @@
-# _9_45
+# Składniki:
+1. Paulina Hryciuk
+2. Alicja Dąbrowska
+3. Emil Falkowski
+4. Michał Bagiński
