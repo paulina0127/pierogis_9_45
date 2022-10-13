@@ -5,5 +5,5 @@
 4. Michał Bagiński
 5. Szymon Chura
 
-#Temat
+# Temat:
 Schronisko dla psów "Bezpieczna przystań"
