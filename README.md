@@ -5,7 +5,7 @@
 4. Michał Bagiński
 5. Szymon Chura
 
-# 3 koncepcje na projekt:
+# Koncepcje na projekt:
 
 1) Schronisko dla zwierząt
 Schronisko dla psów „Bezpieczna przystań” – zajmuje się ewidencją psów z podziałem na grupy (psy przyjęte do schroniska, psy na kwarantannie, psy do adopcji, psy w domach tymczasowych, psy zaadoptowane). Pracownicy biurowi są odpowiedzialni za odpowiednie rejestrowanie zwierząt oraz dokumentowanie ich adopcji (tymczasowej, stałej) przez ich potencjalnych właścicieli – adoptujących. Ich obowiązki obejmuje także gromadzenie danych adoptujących i opiekunów tymczasowych w ewidencji schroniska. Pracownikami odpowiedzialnymi za opiekę zdrowotną zwierząt są lekarze weterynarii i technicy weterynarii oraz behawioryści, którzy zapisują wykonane zadania w karcie zdrowia zwierzęcia. Opiekunowie zajmują się podstawowymi potrzebami zwierząt, a także przedstawiają zwierzęta adoptującym podczas ich wizyt w schronisku. Działalność organizacji obejmuje również magazyn karm i środków leczniczych prowadzony przez magazynierów.  
