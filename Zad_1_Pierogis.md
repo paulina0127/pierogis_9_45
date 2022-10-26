@@ -15,11 +15,11 @@ Po przybyciu do schroniska każde zwierzę otrzymuje numer ewidencyjny oraz traf
 
 W czasie kwarantanny, jeśli zachodzi taka potrzeba, zwierzęciu jest udzielana **pomoc weterynaryjna**, a następnie zostaje poddane niezbędnym zabiegom **odrobaczenia i odpchlenia.** Jeżeli podczas jej trwania nie zgłosił się właściciel zwierzęcia, **przechodzi ono na własność schroniska** i zostaje przygotowane do adopcji, tzn. zaszczepione, zaczipowane i wykastrowane lub wysterylizowane. Gdy zwierzę dojdzie do siebie po zabiegu i nie ma przeciwskazań do przekazania go do adopcji, jest ono gotowe na znalezienie nowego domu. 
 
-W schronisku pracuje **68 osób**: 30 opiekunów i opiekunek psów, 12 lekarzy i techników weterynarii, 10 behawiorystów, 10 pracowników biurowych, 5 magazynierów oraz kierownik. Praca odbywa się w systemie zmianowym, psy mają zapewniony nadzór i opiekę przez całą dobę. Dodatkowo w schronisku udziela się **ok. 30 wolontariuszy**. 
+W schronisku pracuje **70 osób**: 30 opiekunów i opiekunek psów, 12 lekarzy i techników weterynarii, 10 behawiorystów, 10 pracowników biurowych (w tym 2 w księgowości), kierownik magazynu, 5 magazynierów, zastępca kierownika oraz kierownik. Praca odbywa się w systemie zmianowym, psy mają zapewniony nadzór i opiekę przez całą dobę. Dodatkowo w schronisku udziela się **ok. 30 wolontariuszy**. 
 
-**Kierownik** zarządza pracą schroniska i jest odpowiedzialny za jego prawidłowe funkcjonowanie. Odpowiada za poprawność dokumentacji, plan budżetowy, pozyskiwanie środków czy prowadzenie korespondencji. Pełni funkcję reprezentatywną, bierze udział w licznych wyjazdach mających na celu uświadamianie społeczeństwa na temat problemu bezdomności zwierząt. 
+**Kierownik** zarządza pracą schroniska i jest odpowiedzialny za jego prawidłowe funkcjonowanie. Odpowiada za poprawność dokumentacji, plan budżetowy, pozyskiwanie środków czy prowadzenie korespondencji. Zajmuje się rekrutacją nowych pracowników i prowadzeniem ewidencji zawierającej dane pracowników. Pełni funkcję reprezentatywną, bierze udział w licznych wyjazdach mających na celu uświadamianie społeczeństwa na temat problemu bezdomności zwierząt.
 
-**Pracownik biura** jest odpowiedzialny za rejestrację nowych zwierząt. Prowadzi dokumentacje, spisuje umowy adopcyjne i przeprowadza wywiady z potencjalnymi opiekunami tymczasowymi. Zajmuje się także zamawianiem karmy, środków leczniczych, posłań i innych produktów potrzebnych dla prawidłowego funkcjonowania schroniska. 
+**Pracownik biura** jest odpowiedzialny za rejestrację nowych zwierząt. Prowadzi dokumentacje, spisuje umowy adopcyjne i przeprowadza wywiady z potencjalnymi opiekunami tymczasowymi. Zajmuje się także zamawianiem karmy, środków leczniczych, posłań i innych produktów potrzebnych dla prawidłowego funkcjonowania schroniska. Pracownicy biurowi pracujący w księgowości prowadzą dokumentację finansową schroniska oraz obsługują płatności.
 
 **Opiekun** zajmuje się karmieniem i pojeniem zwierząt, sprzątaniem pomieszczeń, w których przebywają zwierzęta. Jego zadaniem jest dbanie o dobre samopoczucie zwierząt: socjalizacja i nawiązywanie ze zwierzętami przyjaznych relacji. Obserwuje i poznaje cechy zwierzęcia – tak aby mógł przekazać jak najwięcej informacji osobom zainteresowanym adopcją i jak najlepiej dopasować zwierzę do jego przyszłego właściciela. Obserwuje stan zdrowia zwierzęcia, zmiany w jego zachowaniu, wszelkie objawy mogące świadczyć o chorobie i przekazuje te spostrzeżenia lekarzowi weterynarii. Współpracuje z wolontariatem w celu zapewnienia zwierzęciu spacerów oraz zapewnienia udanej i odpowiedzialnej adopcji. Opiekunowie pracują na 3 zmiany.
 
@@ -27,7 +27,7 @@ W schronisku pracuje **68 osób**: 30 opiekunów i opiekunek psów, 12 lekarzy i
 
 **Behawioryści** dbają o dobry stan psychiczny psów, szczególnie zminimalizowanie u nich stresu. Wdrażają też plan szkolenia i/lub terapii behawioralnej, mającej rozwiązać problemy psów oraz zwiększyć ich szansę na adopcję. 
 
-**Magazynier** to pracownik zajmujący się przyjmowaniem towarów do magazynu i ich składowaniem. Podczas przyjmowania towaru wykonuje odbiór jakościowy i ilościowy, następnie dba o właściwe dla danych produktów warunki przechowywania. Poza tym wydaje potrzebne produkty pracownikom schroniska. Magazynier nieustannie monitoruje i aktualizuje w rejestrze zapasy magazynowe (przyjmowany, wydawany lub przeterminowany towar). 
+**Magazynier** to pracownik zajmujący się przyjmowaniem towarów do magazynu i ich składowaniem. Podczas przyjmowania towaru wykonuje odbiór jakościowy i ilościowy, następnie dba o właściwe dla danych produktów warunki przechowywania. Poza tym wydaje potrzebne produkty pracownikom schroniska. Magazynier nieustannie monitoruje i aktualizuje w rejestrze zapasy magazynowe (przyjmowany, wydawany lub przeterminowany towar). **Kierownik magazynu** odpowiada za swoich pracowników, pilnuje poprawności wykonywanych przez nich zadań oraz dba o odpowiednie uporządkowanie towarów w magazynie.
 
 **Wolontariusze** wyprowadzają psy na spacery, pomagają w ich socjalizacji, pielęgnacji, treningu i wychowaniu, aktywne uczestniczą w zbiórkach karm dla schroniska oraz promują ideę adopcji zwierząt. 
 
@@ -69,20 +69,20 @@ Psy schroniskowe mają różne charaktery, doświadczenia i wymagania. Wybieraj�
 
 **Otoczenie organizacji:** firmy zapewniające potrzebne produkty i ich dostawcy, agencje rządowe nadzorujące działalność organizacji, partnerzy i sponsorzy pomagający w pozyskiwaniu środków na utrzymanie oraz rozwój schroniska, konkurencyjne schroniska dla psów
 
-**Interesariusze organizacji:** adoptujący, opiekunowie tymczasowi, kierownik, opiekunowie, wolontariusze, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy 
+**Interesariusze organizacji:** adoptujący, opiekunowie tymczasowi, zastępca kierownika, kierownik, opiekunowie, wolontariusze, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy, kierownik magazynu
 
 **Dziedzina problemowa:** 
- - ewidencja psów z podziałem na grupy (psy przyjęte do schroniska, psy
-   na kwarantannie, psy do adopcji, psy w domach tymczasowych, psy
+ - Ewidencja psów z podziałem na grupy (psy przyjęte do schroniska, psy na kwarantannie, psy do adopcji, psy w domach tymczasowych, psy zaadoptowane) 
    zaadoptowane)
- - ewidencja adoptujących i opiekunów tymczasowych
- - dokumentacja procesu adopcyjnego
- - rejestr usług weterynaryjnych i leczenia
- - rejestr posiadanych karm oraz środków leczniczych
+ - Ewidencja adoptujących i opiekunów tymczasowych 
+ - Dokumentacja procesu adopcyjnego
+ - Rejestr usług weterynaryjnych, leczenia, szkoleń, terapii behawioralnych 
+ - Rejestr aktualnie posiadanych karm oraz środków leczniczych
+ - Ewidencja pracowników
 
-**Interesariusze dziedziny problemowej:** adoptujący, opiekunowie tymczasowi, kierownik, opiekunowie, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy 
+**Interesariusze dziedziny problemowej:** adoptujący, opiekunowie tymczasowi, zastępca kierownika, kierownik, opiekunowie, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy, kierownik magazynu
 
-**Pracownicy biznesowi:** kierownik, opiekunowie, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy 
+**Pracownicy biznesowi:** zastępca kierownika, kierownik, opiekunowie, lekarze i technicy weterynarii, behawioryści, pracownicy biurowi, magazynierzy, kierownik magazynu
 
 
  
