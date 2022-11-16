@@ -71,7 +71,7 @@ Atrybuty: id_pracownika, hasło, data_logowania, imię, nazwisko, adres, nr_dowo
 - Role: pracownik – zarządza magazynem, magazyn – jest zarządzany
 - Nawigacja: jednostronna od pracownika do magazynu
     
-#### Produkt <-> Magazyn
+#### Produkt -> Magazyn
 - Nazwa: magazyn
 - Typ: asocjacja
 - Liczebność: 1-wiele
