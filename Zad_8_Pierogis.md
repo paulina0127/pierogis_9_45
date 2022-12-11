@@ -76,8 +76,9 @@ Akcesoria komputerowe takie jak np.: **ergonomiczne klawiatury i manipulatory, w
 
 ## Przy organizowaniu stanowiska pracy warto zwrócić uwagę na kilka ważnych elementów: 
 
-• Należy zapewnić **takie ułożenie okablowania, aby uniemożliwić zaczepianie elementami wózka, nogami czy rękami** (w razie silnych mimowolnych skurczów). W pewnych przypadkach potrzebne jest **stabilne umocowanie klawiatury do podłoża - nie powinna się ona swobodnie przesuwać.** Czasami wystarczy odpowiednio masywna konstrukcja wyposażona w podkładki antypoślizgowe. 
-• Stół dla zestawu komputerowego powinien mieć **solidną konstrukcję i nie przesuwać się.** Wiele osób chodzących o kulach opiera się o stół w czasie wstawania z krzesła przenosząc na stół cały ciężar ciała. Pokrycie podłogi powinno eliminować poślizg i mieć własności antystatyczne.
+- Należy zapewnić **takie ułożenie okablowania, aby uniemożliwić zaczepianie elementami wózka, nogami czy rękami** (w razie silnych mimowolnych skurczów). 
+- W pewnych przypadkach potrzebne jest **stabilne umocowanie klawiatury do podłoża - nie powinna się ona swobodnie przesuwać.** Czasami wystarczy odpowiednio masywna konstrukcja wyposażona w podkładki antypoślizgowe. 
+- Stół dla zestawu komputerowego powinien mieć **solidną konstrukcję i nie przesuwać się.** Wiele osób chodzących o kulach opiera się o stół w czasie wstawania z krzesła przenosząc na stół cały ciężar ciała. Pokrycie podłogi powinno eliminować poślizg i mieć własności antystatyczne.
 
 Systemy operacyjne komputerów osobistych zawierają moduły ułatwiające korzystanie ze standardowej klawiatury **użytkownikowi posługującemu się jedną ręką, jednym palcem lub pałeczką** (trzymaną lub umocowaną do kończyny lub głowy). 
 ## Stosowane są tam następujące udogodnienia:
