@@ -1,7 +1,6 @@
 # Zadanie 8
 ## Niepełnosprawni a interfejs SI.
-
-Wyszukajcie w Internecie informacje nt. ułatwień i udogodnień programowych i sprzętowych dla osób niepełnosprawnych, które się stosuje na świecie – Sprawozdanie na 5 stron.**
+Wyszukajcie w Internecie informacje nt. ułatwień i udogodnień programowych i sprzętowych dla osób niepełnosprawnych, które się stosuje na świecie 
 --------------------------------------------------------
 Niepełnosprawni to 5,5 mln obywateli. Osoby niepełnosprawne stanowią znaczny odsetek społeczeństwa, bo blisko 14%.
 
