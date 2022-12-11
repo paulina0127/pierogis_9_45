@@ -84,13 +84,13 @@ Akcesoria komputerowe takie jak np.: **ergonomiczne klawiatury i manipulatory, w
 
 Systemy operacyjne komputerów osobistych zawierają moduły ułatwiające korzystanie ze standardowej klawiatury **użytkownikowi posługującemu się jedną ręką, jednym palcem lub pałeczką** (trzymaną lub umocowaną do kończyny lub głowy). 
 ## Stosowane są tam następujące udogodnienia:
-• umożliwiające osobom jednoręcznym używanie kombinacji klawiszy z SHIFT, CTRL i ALT, 
-• ignorujące przypadkowe uderzenia klawiszy, 
-• dostrajające tempo powtarzania znaku podczas przytrzymywania wciśniętego klawisza lub wyłączające opcję powtarzania, 
-• zabezpieczające przed wprowadzaniem dodatkowych znaków przez przypadkowe, kilkakrotne wciśnięcie klawisza,
-• umożliwiające poruszanie kursorem myszy przy pomocy klawiatury,
-• umożliwiające obsługę klawiatury komputera i myszy przy pomocy dodatkowego urządzenia wejścia, 
-• pozwalające na wyłączenie modułów użytkowych, jeśli są zbędne.
+- umożliwiające osobom jednoręcznym używanie kombinacji klawiszy z SHIFT, CTRL i ALT, 
+- ignorujące przypadkowe uderzenia klawiszy, 
+- dostrajające tempo powtarzania znaku podczas przytrzymywania wciśniętego klawisza lub wyłączające opcję powtarzania, 
+- zabezpieczające przed wprowadzaniem dodatkowych znaków przez przypadkowe, kilkakrotne wciśnięcie klawisza,
+- umożliwiające poruszanie kursorem myszy przy pomocy klawiatury,
+- umożliwiające obsługę klawiatury komputera i myszy przy pomocy dodatkowego urządzenia wejścia, 
+- pozwalające na wyłączenie modułów użytkowych, jeśli są zbędne.
 
 ## Klawiatura bezprzewodowa
 umożliwia zmianę miejsca pracy, odsunięcie się na większą odległość od jednostki centralnej, aby np. zmienić pozycję z siedzącej na półleżącą (np. dla osób z czterokończynowym porażeniem). Może zawierać wbudowany manipulator kulkowy. 
