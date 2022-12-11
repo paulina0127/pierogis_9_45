@@ -1,6 +1,5 @@
 # Zadanie 8
 ## Niepełnosprawni a interfejs SI.
---------------------------------------------------------
 Niepełnosprawni to 5,5 mln obywateli. Osoby niepełnosprawne stanowią znaczny odsetek społeczeństwa, bo blisko 14%.
 
 Istnieje kilka elementów i funkcjonalności, na które należy zwrócić uwagę podczas projektowania strony z myślą o osobach niepełnosprawnych. Warto jednak podkreślić, że w zależności od stopnia i rodzaju niepełnosprawności, nie wszystkie elementy będą dla każdego niepełnosprawnego użytkownika tak samo przydatne i oczywiste. 
