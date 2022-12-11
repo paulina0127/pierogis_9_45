@@ -111,8 +111,8 @@ z nakładkami posiada możliwość używania różnego układu, rozmiaru i wygl�
 dane dostępne poprzez dotyk palca – można dokonywać wyborów, przesuwać przedmioty i wywoływać menu.
 
 ## Mysz komputerowa sterowana za pomocą ruchów głowy
-• Urządzenie wskazujące dla osób, które nie mogą używać myszy sterowanej ręką. Sterowane za pomocą ruchów głowy urządzenie przeznaczone jest dla osób z dysfunkcją kończyn górnych, odwzorowuje pozycję głowy użytkownika 
-• Do obsługi konieczna jest jedynie zdolność do wykonywania niewielkich przechyłów głowy do przodu, do tyłu i na boki oraz umiejętność dmuchnięcia i zassania powietrza przez ustnik.
+- Urządzenie wskazujące dla osób, które nie mogą używać myszy sterowanej ręką. Sterowane za pomocą ruchów głowy urządzenie przeznaczone jest dla osób z dysfunkcją kończyn górnych, odwzorowuje pozycję głowy użytkownika 
+- Do obsługi konieczna jest jedynie zdolność do wykonywania niewielkich przechyłów głowy do przodu, do tyłu i na boki oraz umiejętność dmuchnięcia i zassania powietrza przez ustnik.
 
 ## Podpórka pod ramię
 Ergonomicznie zaprojektowana podpórka zapewnia komfort pracy użytkownika komputera, nie ograniczając przy tym możliwości wykonywania ruchów. Ruchome przeguby pozwalają swobodnie poruszać ręką w poziomej płaszczyźnie. Podpórka pomaga zredukować napięcie mięśni, a przez to likwiduje drętwienia rąk, szyi i ramion. Podłokietnik wyposażony jest także w klamrę, pozwalającą łatwo zamocować go do blatu biurka. Podpórka wskazana jest dla osób z trudnościami w utrzymaniu rąk.
