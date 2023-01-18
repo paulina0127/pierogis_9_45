@@ -1,0 +1,428 @@
+/* ----------- GLOBAL STYLES ----------- */
+:root {
+  --dark-green: #4c7a34;
+  --green: #92d36e;
+  --light-green: #cbe8ba;
+  --green-hover: #b6ff89;
+  --white: #ffffff;
+  --black: #000000;
+  --gray: #c0c0c0;
+  --light-gray: #e8e8e8;
+  --border: 2px solid var(--black);
+  --radius: 3px;
+  --font-size: 17px;
+  --transition: all 0.3s linear;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica";
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+}
+
+h4,
+p {
+  font-size: var(--font-size);
+}
+
+a {
+  color: var(--black);
+  text-decoration: none;
+}
+
+img {
+  object-fit: contain;
+}
+
+.btn {
+  padding: 8px 24px;
+  font-size: var(--font-size);
+  background: var(--green);
+  border: var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.btn:hover {
+  background: var(--green-hover);
+}
+
+.btn.disabled:hover {
+  background: var(--green);
+  cursor: not-allowed;
+}
+
+.btn-simple {
+  margin: 5px;
+  font-weight: bold;
+  color: var(--dark-green);
+}
+
+/* Delete button */
+.btn-danger {
+  background: #ec3838e8;
+}
+.btn-danger:hover {
+  background: #ff6464d7;
+}
+
+/* Go back button */
+.back-btn {
+  align-self: start;
+  margin-left: 30px;
+}
+
+/* Two buttons */
+.flex-btn {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+/* Three buttons */
+.flex-btn-even {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* ----------- HEADER ----------- */
+.header {
+  padding: 10px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-size: 20px;
+  background: var(--green);
+  border: var(--border);
+  list-style: none;
+}
+
+#login {
+  line-height: 1.5;
+}
+
+.header-item:nth-child(even) {
+  font-weight: bold;
+}
+
+.header-item:first-child {
+  margin-right: auto;
+}
+
+.header-item:last-child {
+  margin-left: auto;
+}
+
+/* Logout button */
+.header .btn {
+  padding: 4px 10px;
+  font-size: 15px;
+  background: var(--light-green);
+  transition: var(--transition);
+}
+
+.header .btn:hover {
+  background: var(--white);
+}
+
+/* ----------- SECTION ----------- */
+section {
+  padding-top: 100px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--light-green);
+}
+
+section .fa-paw {
+  padding: 10px;
+  font-size: 150px;
+  color: var(--dark-green);
+}
+
+/* ----------- MAIN SCREEN ----------- */
+.banner {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-screen-btn {
+  margin: 30px;
+  display: flex;
+  gap: 60px;
+  width: 50%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.main-screen-btn .btn {
+  margin: 0 30px;
+}
+
+/* ----------- CONTENT ----------- */
+.content {
+  margin: 50px 0;
+  width: 80%;
+  border: var(--border);
+  background: var(--white);
+}
+
+.content-header {
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-size: var(--font-size);
+  background: var(--green);
+  border-bottom: var(--border);
+  list-style: none;
+}
+
+.content-header:nth-child(even) {
+  padding: 10px 50px;
+  background: var(--light-green);
+  text-align: center;
+}
+
+.content-header span {
+  width: 100%;
+  text-align: center;
+}
+
+.content-header .btn {
+  background: var(--white);
+}
+
+/* Search and sort */
+.search {
+  display: flex;
+}
+
+.content-header.search {
+  justify-content: left;
+}
+
+.search-btn {
+  background: none;
+  border: none;
+  position: relative;
+  left: -40px;
+  cursor: pointer;
+}
+
+select.btn {
+  max-width: 115px;
+}
+
+/* Filter field */
+#filter {
+  display: none;
+  margin: 10px 0 10px 15px;
+  padding: 5px;
+  align-items: center;
+  gap: 10px;
+}
+
+#filter select,
+#filter input {
+  font-size: var(--font-size);
+  border: var(--border);
+  border-radius: var(--radius);
+}
+
+#filter input {
+  padding: 1px;
+  width: 60px;
+}
+
+#filter_btn {
+  padding: 8px 24px;
+}
+
+#filter_btn:hover {
+  background: var(--light-gray);
+}
+
+#filter .btn {
+  margin-left: 10px;
+  padding: 0;
+  width: auto;
+  background: none;
+  border: none;
+  font-weight: bold;
+}
+
+#filter .btn:hover {
+  text-decoration: underline;
+}
+
+/* Detail view container */
+.content.detail-view {
+  padding: 30px 50px;
+  min-width: 1000px;
+  max-width: 90%;
+  width: auto;
+}
+
+/* Alert window */
+.content.alert {
+  min-width: auto;
+}
+
+div.alert {
+  margin-bottom: 20px;
+}
+
+.alert h2 {
+  margin-bottom: 5px;
+}
+
+.invalid-feedback {
+  color: #ec3838e8;
+}
+
+/* Dog profile */
+#dog-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#dog-profile .form {
+  width: 80%;
+}
+
+#dog-profile img {
+  max-width: 200px;
+}
+
+/* ----------- TABLE ----------- */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+}
+
+/* Styling for no result */
+.table tr.alert {
+  text-align: center;
+  cursor: auto;
+}
+
+.table tr.alert:hover {
+  background: var(--white);
+}
+
+.table tr {
+  border-bottom: 1px solid var(--black);
+  cursor: pointer;
+}
+
+.table tr:hover,
+.table tr:nth-of-type(odd):hover {
+  background: var(--green-hover);
+}
+
+.table tr:first-child {
+  cursor: auto;
+}
+
+.table tr:first-child:hover {
+  background: var(--light-gray);
+}
+
+.table tr:last-child {
+  border-bottom: none;
+}
+
+.table tr:nth-of-type(odd) {
+  background: var(--light-gray);
+}
+
+/* ----------- FORM ----------- */
+.form {
+  margin: 15px 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.form .form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-field {
+  padding: 10px;
+  display: flex;
+}
+
+.form-field label {
+  font-size: var(--font-size);
+  font-weight: bold;
+}
+
+.form-field input,
+.form-field select,
+.form-field textarea {
+  padding: 8px 10px;
+  font-size: var(--font-size);
+  border-radius: var(--radius);
+  border: var(--border);
+}
+
+.form-field input::placeholder {
+  font-size: var(--font-size);
+  color: var(--gray);
+}
+
+.login-form .btn,
+.form .btn {
+  margin: 10px auto;
+  padding: 8px 24px;
+}
+
+input[type="file"] {
+  border: none;
+}
+
+/* ----------- LOGIN FORM ----------- */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-field .fa-solid {
+  padding-right: 10px;
+  font-size: 30px;
+  vertical-align: middle;
+}
